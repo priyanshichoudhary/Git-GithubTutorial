@@ -37,7 +37,7 @@ Git is a distributed version control system that allows developers to track chan
 
 1. Clone this Repository:
    - Clone this repository to your local machine to follow along with the examples.
-   - git clone https://github.com/your-username/git-basics-tutorial.git
+   - git clone https://github.com/priyanshichoudhary/Git-GithubTutorial.git
 
 2. Navigate Through the Tutorial
 
